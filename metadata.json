@@ -1,0 +1,6 @@
+{
+  "name": "Code Spark",
+  "description": "An offline-capable AI code editor, file manager, terminal simulator, and project generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
